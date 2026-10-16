@@ -1,5 +1,10 @@
 # Controlabilidad y asignación estratégica de actuadores en sistemas BBM
 
+**[PRESENTACIÓN ORAL — Guion de 20 minutos](PRESENTACION.md)**
+
+Explicación para público no especializado, con
+variables matemáticas definidas, gráficas y preguntas frecuentes.
+
 **Proyecto final - Maestría en Ciencia de Datos**
 **Universidad Yachay Tech - Octubre de 2026**
 
